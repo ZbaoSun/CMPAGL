@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This is the official code repository for the paper "Cross-Modal Pre-Aligned Method with Global and Local Information for Remote-Sensing Image and Text Retrieval". Our method achieves efficient performance in remote-sensing image and text retrieval through cross-modal pre-alignment with global and local information.
+Our method achieves efficient performance in remote-sensing image and text retrieval through cross-modal pre-alignment with global and local information.
 
 ## Code Upload In Progress
 
